@@ -1,0 +1,28 @@
+name: CaniTreasureBox
+favicon: null
+layout_spectrum: 0.7580768207553774
+typography_spectrum: 0.49860842851921916
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.05957433977164328
+  lightness: 0.6673542431090027
+  saturation: 0.377801779191941
+  rhythmicContrast: 0.585832406533882
+purpose: []
